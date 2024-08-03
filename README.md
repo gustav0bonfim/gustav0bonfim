@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobonfim-dev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0bonfim&show_icons=true&theme=radical)
 
 ### O que atualmente estou praticando: 🧑‍🎓
 
